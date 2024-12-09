@@ -1,1 +1,3 @@
-
+We take a look at an Exploratory Data Analysis (EDA) project within Python Pandas.The data is sourced from Kaggle.
+Python Libraries needed: Pandas, Seaborn
+Kaggle Data:  https://www.kaggle.com/datasets/aiaia...
